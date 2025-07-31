@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">CS & Aerospace Engineering @ USF</p>
+<p align="left">CS @ USF</p>
 
 ###
 
