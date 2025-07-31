@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">CS @ USF</p>
+<p align="left">Computer Science @ University of South Florida</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I am currently a first-year student at The University of South Florida‘s Bellini College of Artificial Intelligence, Cybersecurity and Computing. I am majoring in Computer Science with a minor in Aerospace Engineering.</p>
+<p align="left">I am currently a first-year student at The University of South Florida‘s Bellini College of Artificial Intelligence, Cybersecurity and Computing.</p>
 
 ###
 
