@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I am currently a first-year student at The University of South Florida‘s Bellini College of Artificial Intelligence, Cybersecurity and Computing.</p>
+<p align="left">I am currently a Sophomore at The University of South Florida‘s Bellini College of Artificial Intelligence, Cybersecurity and Computing.</p>
 
 ###
 
