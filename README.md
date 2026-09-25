@@ -1,4 +1,6 @@
 Hey, I'm Ayush 
 
-My work spans autonomous vehicle software, ML cancer research, and software engineering.
+My work spans across software engineering, ML cancer research, AV software and quantitative algorithmic trading.
+
+
 
